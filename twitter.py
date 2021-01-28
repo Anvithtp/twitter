@@ -1,4 +1,4 @@
-Nithin Naik10:29 AM
+
 import tweepy
 import os
 
